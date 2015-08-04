@@ -1,4 +1,4 @@
-# SendEmailWithOffice365Exchange
+# Sample Code: Send Email With Office 365 Exchange
 Example C# project of sending email with Office 365 Exchange
 I see this all the time- ASP.NET or C# or VB Devs trying to send email with their corporate mail server using Office 365 / Exchange.
 
